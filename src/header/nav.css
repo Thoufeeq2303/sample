@@ -1,0 +1,14 @@
+ol li{
+    display: inline;
+    padding: 20px;
+}
+
+ol li a{
+    text-decoration: none;
+    color:black;
+}
+
+.ii{
+    color: rebeccapurple;
+    font-size: 30px;
+}
